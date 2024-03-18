@@ -19,6 +19,7 @@ function Articles() {
             }));
             setArticles(articlesData);
             console.log(articlesData);
+            console.log("hello");
         })
     }, []);
 
