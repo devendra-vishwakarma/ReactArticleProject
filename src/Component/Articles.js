@@ -20,6 +20,7 @@ function Articles() {
             setArticles(articlesData);
             console.log(articlesData);
             console.log("hello");
+            console.log("Rahul and Sachine both are Couples");
         })
     }, []);
 
